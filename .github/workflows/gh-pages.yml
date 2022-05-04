@@ -15,10 +15,10 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       
-      - name: actions/setup-node
-        uses: actions/setup-node@v1.4.1
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.1.1
         with:
-          node-version: "16"
+          node-version: '16'
           
       - name: Install Depedency
         run: npm install postcss-cli
