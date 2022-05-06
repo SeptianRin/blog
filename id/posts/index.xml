@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on septianrin&#39;s blog</title>
+    <link>https://blog.septianrin.space/id/posts/</link>
+    <description>Recent content in Posts on septianrin&#39;s blog</description>
+    <image>
+      <url>https://blog.septianrin.space/favicon-16x16.png</url>
+      <link>https://blog.septianrin.space/favicon-16x16.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 May 2022 22:09:44 +0700</lastBuildDate><atom:link href="https://blog.septianrin.space/id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://blog.septianrin.space/id/posts/third-post/</link>
+      <pubDate>Fri, 06 May 2022 22:09:44 +0700</pubDate>
+      
+      <guid>https://blog.septianrin.space/id/posts/third-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://blog.septianrin.space/id/posts/second-post/</link>
+      <pubDate>Fri, 06 May 2022 21:57:53 +0700</pubDate>
+      
+      <guid>https://blog.septianrin.space/id/posts/second-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://blog.septianrin.space/id/posts/my-first-post/</link>
+      <pubDate>Wed, 04 May 2022 08:42:38 +0700</pubDate>
+      
+      <guid>https://blog.septianrin.space/id/posts/my-first-post/</guid>
+      <description>Hello this is my first blogpost testing some functionality on this blog, setting up for the first time is somewhat tricky</description>
+    </item>
+    
+  </channel>
+</rss>
