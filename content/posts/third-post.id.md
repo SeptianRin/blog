@@ -1,0 +1,35 @@
+---
+title: "Third Post"
+date: 2022-05-06T22:09:44+07:00
+weight: 1
+# aliases: ["/first"]
+tags: ["first"]
+author: "septianrin"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: true
+draft: false
+hidemeta: false
+comments: true
+description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/septianrin/blog/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
+

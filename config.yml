@@ -13,6 +13,30 @@ minify:
   disableXML: true
   minifyOutput: true
 
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          archive: archives
+    id:
+        languageName: ":id:"
+        languageAltTitle: Indonesia
+        weight: 2
+        title: septianrin's blog
+        taxonomies:
+          category: categories
+          tag: tags
+          archive: archives
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: septianrin's Blog
