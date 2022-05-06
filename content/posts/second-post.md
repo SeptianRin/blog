@@ -1,7 +1,7 @@
 ---
 title: "Second Post"
 date: 2022-05-06T21:57:53+07:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
@@ -28,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/septianrin/blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
