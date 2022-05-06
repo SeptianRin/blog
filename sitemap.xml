@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://blog.septianrin.space/tags/first/</loc><lastmod>2022-05-06T21:57:53+07:00</lastmod></url><url><loc>http://blog.septianrin.space/second-post/</loc><lastmod>2022-05-06T21:57:53+07:00</lastmod></url><url><loc>http://blog.septianrin.space/</loc><lastmod>2022-05-06T21:57:53+07:00</lastmod></url><url><loc>http://blog.septianrin.space/tags/</loc><lastmod>2022-05-06T21:57:53+07:00</lastmod></url><url><loc>http://blog.septianrin.space/posts/my-first-post/</loc><lastmod>2022-05-04T08:42:38+07:00</lastmod></url><url><loc>http://blog.septianrin.space/posts/</loc><lastmod>2022-05-04T08:42:38+07:00</lastmod></url><url><loc>http://blog.septianrin.space/archives/</loc></url><url><loc>http://blog.septianrin.space/categories/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.septianrin.space/tags/first/</loc>
+    <lastmod>2022-05-06T21:57:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.septianrin.space/second-post/</loc>
+    <lastmod>2022-05-06T21:57:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.septianrin.space/</loc>
+    <lastmod>2022-05-06T21:57:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.septianrin.space/tags/</loc>
+    <lastmod>2022-05-06T21:57:53+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.septianrin.space/posts/my-first-post/</loc>
+    <lastmod>2022-05-04T08:42:38+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.septianrin.space/posts/</loc>
+    <lastmod>2022-05-04T08:42:38+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.septianrin.space/categories/</loc>
+  </url>
+</urlset>
