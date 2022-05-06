@@ -1,3 +1,6 @@
 [submodule "Blonde"]
 	path = Blonde
 	url = https://github.com/opera7133/Blonde
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
