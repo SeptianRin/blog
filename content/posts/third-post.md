@@ -1,7 +1,7 @@
 ---
 title: "Third Post"
 date: 2022-05-06T22:09:44+07:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 tags: ["first"]
 author: "septianrin"
