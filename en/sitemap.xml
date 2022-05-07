@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.septianrin.space/posts/third-post/</loc>
+    <lastmod>2022-05-06T22:09:44+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://blog.septianrin.space/id/posts/third-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.septianrin.space/posts/third-post/"
+                />
+  </url><url>
     <loc>https://blog.septianrin.space/posts/second-post/</loc>
     <lastmod>2022-05-06T21:57:53+07:00</lastmod>
     <xhtml:link
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://blog.septianrin.space/tags/first/</loc>
-    <lastmod>2022-05-06T22:09:44+07:00</lastmod>
+    <lastmod>2022-05-08T01:33:37+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -28,8 +41,21 @@
                 href="https://blog.septianrin.space/tags/first/"
                 />
   </url><url>
+    <loc>https://blog.septianrin.space/posts/ini-post-baru/</loc>
+    <lastmod>2022-05-08T01:33:37+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://blog.septianrin.space/id/posts/ini-post-baru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.septianrin.space/posts/ini-post-baru/"
+                />
+  </url><url>
     <loc>https://blog.septianrin.space/posts/</loc>
-    <lastmod>2022-05-06T22:09:44+07:00</lastmod>
+    <lastmod>2022-05-08T01:33:37+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -42,7 +68,7 @@
                 />
   </url><url>
     <loc>https://blog.septianrin.space/</loc>
-    <lastmod>2022-05-06T22:09:44+07:00</lastmod>
+    <lastmod>2022-05-08T01:33:37+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -55,7 +81,7 @@
                 />
   </url><url>
     <loc>https://blog.septianrin.space/tags/</loc>
-    <lastmod>2022-05-06T22:09:44+07:00</lastmod>
+    <lastmod>2022-05-08T01:33:37+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -65,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.septianrin.space/tags/"
-                />
-  </url><url>
-    <loc>https://blog.septianrin.space/posts/third-post/</loc>
-    <lastmod>2022-05-06T22:09:44+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://blog.septianrin.space/id/posts/third-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.septianrin.space/posts/third-post/"
                 />
   </url><url>
     <loc>https://blog.septianrin.space/posts/my-first-post/</loc>
